@@ -1,0 +1,2 @@
+# arraycomp
+Python array comparison
